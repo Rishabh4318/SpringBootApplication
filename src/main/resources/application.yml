@@ -1,0 +1,4 @@
+server:
+  port: 8080
+client:
+  deposit: "http://localhost:9090"
